@@ -5,15 +5,15 @@
 
 ## Table des matières
 
-2. [Le pattern Decorator](#le-pattern-decorator)
-3. [Structure du projet](#structure-du-projet)
-4. [Architecture et diagrammes](#architecture-et-diagrammes)
-5. [Description des classes](#description-des-classes)
-6. [Tarifs](#tarifs)
-7. [Scénario de démonstration](#scénario-de-démonstration)
-10. [Résultat attendu](#résultat-attendu)
-11. [Ajouter un nouveau supplément ou une nouvelle boisson](#ajouter-un-nouveau-supplément-ou-une-nouvelle-boisson)
-14. [Auteur](#auteur)
+1. [Le pattern Decorator](#le-pattern-decorator)2
+2. [Structure du projet](#structure-du-projet)
+3. [Architecture et diagrammes](#architecture-et-diagrammes)
+4. [Description des classes](#description-des-classes)
+5. [Tarifs](#tarifs)
+6. [Scénario de démonstration](#scénario-de-démonstration)
+7. [Résultat attendu](#résultat-attendu)
+8. [Ajouter un nouveau supplément ou une nouvelle boisson](#ajouter-un-nouveau-supplément-ou-une-nouvelle-boisson)
+9. [Auteur](#auteur)
 
 ---
 
