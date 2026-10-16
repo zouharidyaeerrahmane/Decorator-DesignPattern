@@ -5,7 +5,7 @@
 
 ## Table des matières
 
-1. [Le pattern Decorator](#le-pattern-decorator)2
+1. [Le pattern Decorator](#le-pattern-decorator)
 2. [Structure du projet](#structure-du-projet)
 3. [Architecture et diagrammes](#architecture-et-diagrammes)
 4. [Description des classes](#description-des-classes)
