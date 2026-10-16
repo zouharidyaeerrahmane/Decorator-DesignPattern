@@ -4,6 +4,7 @@ package com.zouhari;
 import com.zouhari.composant.Boisson;
 import com.zouhari.composant.Espresso;
 import com.zouhari.composant.Sumatra;
+import com.zouhari.decorateur.Caramel;
 import com.zouhari.decorateur.Chocolat;
 
 /**
@@ -23,6 +24,11 @@ public class Main {
         boisson1 = new Chocolat(boisson1);
         System.out.println(boisson1.getDescription());
         System.out.println(boisson1.cout());
+        System.out.println("----------------------------");
+        boisson1 = new Caramel(boisson1);
+        System.out.println(boisson1.getDescription());
+        System.out.println(boisson1.cout());
+
 
         }
     }
